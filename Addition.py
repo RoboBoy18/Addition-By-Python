@@ -1,4 +1,4 @@
-first=int(input('Enter the number:'))
-second=int(input('Enter the second number:'))
+first=float(input('Enter the first number:'))
+second=float(input('Enter the second number:'))
 result=first+second
-print('The result is:'+str(result))
+print('The sum is:'+str(result))
