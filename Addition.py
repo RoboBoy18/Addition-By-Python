@@ -1,4 +1,5 @@
 first=float(input('Enter the first number:'))
 second=float(input('Enter the second number:'))
-result=first+second
+third = float(input('Enter the third number:'))
+result=first+second+third
 print('The sum is:'+str(result))
